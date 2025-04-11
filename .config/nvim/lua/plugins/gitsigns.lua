@@ -19,7 +19,7 @@ return {
           interval = 1000,
           follow_files = true
         },
-        current_line_blame = false, -- Enable to show blame on current line
+        current_line_blame = false, 
         preview_config     = {
           border = "rounded",
           style = "minimal",
